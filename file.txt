@@ -1,1 +1,2 @@
 Commit 1 for master branch
+commit 2 for master branch
